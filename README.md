@@ -683,3 +683,7 @@ Neo4j). See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 Apache 2.0 — see [LICENSE](LICENSE).
+
+
+## @monetize
+This MCP server is x402-enabled and monetized via [NanoEmpire Trust Manifests](https://www.nanoempireai.com/manifests.html). Run \python x402_monetize.py\ to view the agent card.
